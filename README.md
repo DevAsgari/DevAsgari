@@ -12,20 +12,16 @@ I'm a passionate software engineer specializing in full-stack web development an
 
 #### 🏆 [Insurance Rewards Platform](https://github.com/YOUR_USERNAME/insurancerewards.dk)
 Full-stack insurance rewards calculation system with multiple calculation strategies.
-- **Tech:** .NET 8 Web API, Vue 3, TypeScript, MySQL, Entity Framework Core
-- **Architecture:** Clean Architecture with Strategy, Factory, and Repository patterns
-- **Testing:** 446 automated tests (76 backend xUnit, 370 frontend Vitest)
+- **Tech:** .NET 8 Web API, Vue 3, TypeScript, MySQL
 
 #### 🤖 [Semantic Search & Summary Tool](https://github.com/YOUR_USERNAME/semantic-search-summary-tool)
 AI-powered semantic search CLI with text summarization capabilities.
 - **Tech:** Python, Sentence-BERT, FAISS, BART, Transformers
-- **Features:** Vector similarity search, automatic text summarization
 - **Models:** all-mpnet-base-v2 embeddings, facebook/bart-large-cnn
 
 #### 😄 [Programming Jokes](https://programming-jokes.dk)
 Simple SPA for submitting and viewing programming jokes.
 - **Tech:** Vue 3, Firebase Realtime Database
-- **Status:** Live in production
 
 ---
 
