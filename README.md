@@ -31,12 +31,10 @@ Simple SPA for submitting and viewing programming jokes.
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Backend
 ![.NET](https://img.shields.io/badge/.NET_8-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ### Frontend
 ![Vue.js](https://img.shields.io/badge/Vue.js_3-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
@@ -47,27 +45,10 @@ Simple SPA for submitting and viewing programming jokes.
 ### Database & Tools
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### AI/ML
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-
-### Testing
-![xUnit](https://img.shields.io/badge/xUnit-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
-![Moq](https://img.shields.io/badge/Moq-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-
----
-
-## 🏗️ Architecture & Design Patterns
-
-- ✅ **Clean Architecture** - Separation of concerns with clear layer boundaries
-- ✅ **SOLID Principles** - Maintainable and scalable code
-- ✅ **Strategy Pattern** - Flexible reward calculation algorithms
-- ✅ **Factory Pattern** - Object creation abstraction
-- ✅ **Repository Pattern** - Data access layer abstraction
-- ✅ **Adapter Pattern** - Third-party integration
 
 ---
 
@@ -76,15 +57,6 @@ Simple SPA for submitting and viewing programming jokes.
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=DevAsgari&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevAsgari&layout=compact&theme=radical)
-
----
-
-## 🎯 Current Focus
-
-- 🔒 Implementing authentication & authorization in production apps
-- 🧪 Increasing test coverage to 80%+
-- 🤖 Exploring advanced AI/ML techniques with Transformers
-- 📚 Deep diving into Clean Architecture patterns
 
 ---
 
