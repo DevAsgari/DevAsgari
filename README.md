@@ -3,8 +3,8 @@
 #### Software Engineer | AI Enthusiast | Full-Stack Developer
 I'm a passionate software engineer specializing in full-stack web development and AI/ML applications. I love building scalable applications using modern technologies and design patterns.
 🌐 **Portfolio:** [devasgari.dk](https://devasgari.dk)
-
-## 🚀 Featured Projects
+---
+### 🚀 Featured Projects
 #### 🏆 [Insurance Rewards Platform](https://github.com/YOUR_USERNAME/insurancerewards.dk)
 Full-stack insurance rewards calculation system with multiple calculation strategies.
 - **Tech:** .NET 8 Web API, Vue 3, TypeScript, MySQL
@@ -15,8 +15,8 @@ AI-powered semantic search CLI with text summarization capabilities.
 #### 😄 [Programming Jokes](https://programming-jokes.dk)
 Simple SPA for submitting and viewing programming jokes.
 - **Tech:** Vue 3, Firebase Realtime Database
-
-## 🛠️ Tech Stack
+---
+### 🛠️ Tech Stack
 #### Languages
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -40,13 +40,13 @@ Simple SPA for submitting and viewing programming jokes.
 #### AI/ML
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-
-## 📊 GitHub Stats
+---
+### 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=DevAsgari&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevAsgari&layout=compact&theme=radical)
-
-## 📫 How to Reach Me
+---
+### 📫 How to Reach Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://devasgari.dk)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
