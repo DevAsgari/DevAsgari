@@ -5,6 +5,7 @@ I'm a passionate software engineer specializing in full-stack web development an
 
 🌐 **Portfolio:** [devasgari.dk](https://devasgari.dk)
 
+---
 ### 🚀 Featured Projects
 #### 🏆 [Insurance Rewards Platform](https://github.com/YOUR_USERNAME/insurancerewards.dk)
 Full-stack insurance rewards calculation system with multiple calculation strategies.
