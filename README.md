@@ -3,7 +3,7 @@
 #### Software Engineer | AI Enthusiast | Full-Stack Developer
 I'm a passionate software engineer specializing in full-stack web development and AI/ML applications. I love building scalable applications using modern technologies and design patterns.
 🌐 **Portfolio:** [devasgari.dk](https://devasgari.dk)
----
+
 ### 🚀 Featured Projects
 #### 🏆 [Insurance Rewards Platform](https://github.com/YOUR_USERNAME/insurancerewards.dk)
 Full-stack insurance rewards calculation system with multiple calculation strategies.
@@ -40,11 +40,13 @@ Simple SPA for submitting and viewing programming jokes.
 #### AI/ML
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
 ---
 ### 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=DevAsgari&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevAsgari&layout=compact&theme=radical)
+
 ---
 ### 📫 How to Reach Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
