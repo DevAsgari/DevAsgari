@@ -6,11 +6,11 @@ I'm a passionate software engineer specializing in full-stack web development an
 #### 🌐 Portfolio: [devasgari.dk](https://devasgari.dk)
 
 ## Featured Projects
-#### 🏆 [Insurance Rewards Platform](https://github.com/DevAsgari/insurancerewards.dk)  · 2025 &nbsp; <mark>NEW</mark>
+#### 🏆 [Insurance Rewards System](https://github.com/DevAsgari/insurancerewards.dk)  · 2025 &nbsp; <mark>NEW</mark>
 Full-stack insurance rewards calculation system with multiple calculation strategies.
 #### 🤖 [AI Semantic Search Tool](https://github.com/DevAsgari/semantic-search-summary-tool)  ·  2025
 AI-powered semantic search CLI with text summarization capabilities.
-#### 😄 [Programming Jokes](https://github.com/DevAsgari/programming-jokes.dk)  ·  2023
+#### 😄 [programming-jokes.dk](https://github.com/DevAsgari/programming-jokes.dk)  ·  2023
 Simple SPA for submitting and viewing programming jokes.
 
 ## Tech Stack
