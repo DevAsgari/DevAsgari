@@ -43,4 +43,4 @@ Simple SPA for submitting and viewing programming jokes.
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 ## GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevAsgari&layout=donut&theme=synthwave)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevAsgari&layout=donut&theme=cobalt)
