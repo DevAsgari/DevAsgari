@@ -1,7 +1,8 @@
-# Hi, I'm Maria Asgari 👋
+## Hi, I'm Maria Asgari 👋
 
-#### Software Engineer | AI Enthusiast | Full-Stack Developer
+### Software Engineer | AI Enthusiast | Full-Stack Developer
 I'm a passionate software engineer specializing in full-stack web development and AI/ML applications. I love building scalable applications using modern technologies and design patterns.
+
 🌐 **Portfolio:** [devasgari.dk](https://devasgari.dk)
 
 ### 🚀 Featured Projects
