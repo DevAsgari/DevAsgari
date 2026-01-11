@@ -28,6 +28,3 @@ Simple SPA for submitting and viewing programming jokes.
 [![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](#)
-
-## GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevAsgari&layout=donut&theme=cobalt)
